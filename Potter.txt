@@ -1,8 +1,4 @@
-Harry Potter book:
-One The Philosopher's Stone (1997)
-Two The Chamber of Secrets (1998)
-Three The Prisoner of Azkaban (1999)
-Four The Goblet of Fire (2000)
-Five Order of the Phoenix (2003)
-Six Half-Blood Prince (2005)
-Seven Deathly Hallows (2007)
+"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\lib\idea_rt.jar=62042:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\bin" -Dfile.encoding=UTF-8 -classpath I:\IdeaProjects\HelloWorld\out\production\HelloWorld HelloWorld
+Hello, world!
+
+Process finished with exit code 0
